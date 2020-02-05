@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8ccfb3194f757400591a040002fa0dde
+timeCreated: 1517153590
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelt Caps Freehand
+  fontNames:
+  - Kelt Caps Freehand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

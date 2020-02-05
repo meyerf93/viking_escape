@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{6ec17632-2d1f-47a7-a006-092fa3d9a7f8}">
+        <property name="assetPath">
+            <value>Marques/Voice.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>129.72975056689341</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5c8102f6-3a07-4449-8229-b1219ae55093}</destination>
+        </relationship>
+    </object>
+</objects>

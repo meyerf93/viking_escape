@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{9856e8bf-b278-4781-9ba9-6f80c1fe770c}">
+        <property name="assetPath">
+            <value>Marques/Bass Drum.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>129.72975056689341</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5c8102f6-3a07-4449-8229-b1219ae55093}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5e0f8e8e1f6f1408c915d61b1223b303
+timeCreated: 1517102601
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VIKING, YOUNGER Runes Bold
+  fontNames:
+  - VIKING, YOUNGER Runes Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
